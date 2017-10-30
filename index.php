@@ -74,7 +74,7 @@
 
         <a class="col-sm-4">
             <ul class="btn-group-vertical btn-block">
-                <a href="Paginas/Inicio.php"> <button type="button" class="btn btn-primary" > Inicio de pagina web</button></a>
+                <a href="Paginas/Inicio.html"> <button type="button" class="btn btn-primary" > Inicio de pagina web</button></a>
                 <button type="button" class="btn btn-primary">Conocimientos</button>
                 <button type="button" class="btn btn-primary">Recomendaciones</button>
             </ul>
